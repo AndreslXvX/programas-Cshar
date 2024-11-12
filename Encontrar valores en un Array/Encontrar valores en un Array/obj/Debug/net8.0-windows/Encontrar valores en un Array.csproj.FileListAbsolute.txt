@@ -1,0 +1,16 @@
+C:\Users\Andres Eduardo\source\repos\Encontrar valores en un Array\Encontrar valores en un Array\bin\Debug\net8.0-windows\Encontrar valores en un Array.exe
+C:\Users\Andres Eduardo\source\repos\Encontrar valores en un Array\Encontrar valores en un Array\bin\Debug\net8.0-windows\Encontrar valores en un Array.deps.json
+C:\Users\Andres Eduardo\source\repos\Encontrar valores en un Array\Encontrar valores en un Array\bin\Debug\net8.0-windows\Encontrar valores en un Array.runtimeconfig.json
+C:\Users\Andres Eduardo\source\repos\Encontrar valores en un Array\Encontrar valores en un Array\bin\Debug\net8.0-windows\Encontrar valores en un Array.dll
+C:\Users\Andres Eduardo\source\repos\Encontrar valores en un Array\Encontrar valores en un Array\bin\Debug\net8.0-windows\Encontrar valores en un Array.pdb
+C:\Users\Andres Eduardo\source\repos\Encontrar valores en un Array\Encontrar valores en un Array\obj\Debug\net8.0-windows\Encontrar_valores_en_un_Array.Form1.resources
+C:\Users\Andres Eduardo\source\repos\Encontrar valores en un Array\Encontrar valores en un Array\obj\Debug\net8.0-windows\Encontrar valores en un Array.csproj.GenerateResource.cache
+C:\Users\Andres Eduardo\source\repos\Encontrar valores en un Array\Encontrar valores en un Array\obj\Debug\net8.0-windows\Encontrar valores en un Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres Eduardo\source\repos\Encontrar valores en un Array\Encontrar valores en un Array\obj\Debug\net8.0-windows\Encontrar valores en un Array.AssemblyInfoInputs.cache
+C:\Users\Andres Eduardo\source\repos\Encontrar valores en un Array\Encontrar valores en un Array\obj\Debug\net8.0-windows\Encontrar valores en un Array.AssemblyInfo.cs
+C:\Users\Andres Eduardo\source\repos\Encontrar valores en un Array\Encontrar valores en un Array\obj\Debug\net8.0-windows\Encontrar valores en un Array.csproj.CoreCompileInputs.cache
+C:\Users\Andres Eduardo\source\repos\Encontrar valores en un Array\Encontrar valores en un Array\obj\Debug\net8.0-windows\Encontrar valores en un Array.dll
+C:\Users\Andres Eduardo\source\repos\Encontrar valores en un Array\Encontrar valores en un Array\obj\Debug\net8.0-windows\refint\Encontrar valores en un Array.dll
+C:\Users\Andres Eduardo\source\repos\Encontrar valores en un Array\Encontrar valores en un Array\obj\Debug\net8.0-windows\Encontrar valores en un Array.pdb
+C:\Users\Andres Eduardo\source\repos\Encontrar valores en un Array\Encontrar valores en un Array\obj\Debug\net8.0-windows\Encontrar valores en un Array.genruntimeconfig.cache
+C:\Users\Andres Eduardo\source\repos\Encontrar valores en un Array\Encontrar valores en un Array\obj\Debug\net8.0-windows\ref\Encontrar valores en un Array.dll

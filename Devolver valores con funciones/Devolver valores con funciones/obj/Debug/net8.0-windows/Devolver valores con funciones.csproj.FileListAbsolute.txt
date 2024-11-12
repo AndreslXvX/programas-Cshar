@@ -1,0 +1,16 @@
+C:\Users\Andres Eduardo\source\repos\Devolver valores con funciones\Devolver valores con funciones\bin\Debug\net8.0-windows\Devolver valores con funciones.exe
+C:\Users\Andres Eduardo\source\repos\Devolver valores con funciones\Devolver valores con funciones\bin\Debug\net8.0-windows\Devolver valores con funciones.deps.json
+C:\Users\Andres Eduardo\source\repos\Devolver valores con funciones\Devolver valores con funciones\bin\Debug\net8.0-windows\Devolver valores con funciones.runtimeconfig.json
+C:\Users\Andres Eduardo\source\repos\Devolver valores con funciones\Devolver valores con funciones\bin\Debug\net8.0-windows\Devolver valores con funciones.dll
+C:\Users\Andres Eduardo\source\repos\Devolver valores con funciones\Devolver valores con funciones\bin\Debug\net8.0-windows\Devolver valores con funciones.pdb
+C:\Users\Andres Eduardo\source\repos\Devolver valores con funciones\Devolver valores con funciones\obj\Debug\net8.0-windows\Devolver_valores_con_funciones.Form1.resources
+C:\Users\Andres Eduardo\source\repos\Devolver valores con funciones\Devolver valores con funciones\obj\Debug\net8.0-windows\Devolver valores con funciones.csproj.GenerateResource.cache
+C:\Users\Andres Eduardo\source\repos\Devolver valores con funciones\Devolver valores con funciones\obj\Debug\net8.0-windows\Devolver valores con funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres Eduardo\source\repos\Devolver valores con funciones\Devolver valores con funciones\obj\Debug\net8.0-windows\Devolver valores con funciones.AssemblyInfoInputs.cache
+C:\Users\Andres Eduardo\source\repos\Devolver valores con funciones\Devolver valores con funciones\obj\Debug\net8.0-windows\Devolver valores con funciones.AssemblyInfo.cs
+C:\Users\Andres Eduardo\source\repos\Devolver valores con funciones\Devolver valores con funciones\obj\Debug\net8.0-windows\Devolver valores con funciones.csproj.CoreCompileInputs.cache
+C:\Users\Andres Eduardo\source\repos\Devolver valores con funciones\Devolver valores con funciones\obj\Debug\net8.0-windows\Devolver valores con funciones.dll
+C:\Users\Andres Eduardo\source\repos\Devolver valores con funciones\Devolver valores con funciones\obj\Debug\net8.0-windows\refint\Devolver valores con funciones.dll
+C:\Users\Andres Eduardo\source\repos\Devolver valores con funciones\Devolver valores con funciones\obj\Debug\net8.0-windows\Devolver valores con funciones.pdb
+C:\Users\Andres Eduardo\source\repos\Devolver valores con funciones\Devolver valores con funciones\obj\Debug\net8.0-windows\Devolver valores con funciones.genruntimeconfig.cache
+C:\Users\Andres Eduardo\source\repos\Devolver valores con funciones\Devolver valores con funciones\obj\Debug\net8.0-windows\ref\Devolver valores con funciones.dll
