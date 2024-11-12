@@ -1,0 +1,16 @@
+C:\Users\Andres Eduardo\source\repos\Primer Programa c#\Primer Programa c#\bin\Debug\net8.0-windows\Primer Programa c#.exe
+C:\Users\Andres Eduardo\source\repos\Primer Programa c#\Primer Programa c#\bin\Debug\net8.0-windows\Primer Programa c#.deps.json
+C:\Users\Andres Eduardo\source\repos\Primer Programa c#\Primer Programa c#\bin\Debug\net8.0-windows\Primer Programa c#.runtimeconfig.json
+C:\Users\Andres Eduardo\source\repos\Primer Programa c#\Primer Programa c#\bin\Debug\net8.0-windows\Primer Programa c#.dll
+C:\Users\Andres Eduardo\source\repos\Primer Programa c#\Primer Programa c#\bin\Debug\net8.0-windows\Primer Programa c#.pdb
+C:\Users\Andres Eduardo\source\repos\Primer Programa c#\Primer Programa c#\obj\Debug\net8.0-windows\Primer_Programa_c_.Form1.resources
+C:\Users\Andres Eduardo\source\repos\Primer Programa c#\Primer Programa c#\obj\Debug\net8.0-windows\Primer Programa c#.csproj.GenerateResource.cache
+C:\Users\Andres Eduardo\source\repos\Primer Programa c#\Primer Programa c#\obj\Debug\net8.0-windows\Primer Programa c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres Eduardo\source\repos\Primer Programa c#\Primer Programa c#\obj\Debug\net8.0-windows\Primer Programa c#.AssemblyInfoInputs.cache
+C:\Users\Andres Eduardo\source\repos\Primer Programa c#\Primer Programa c#\obj\Debug\net8.0-windows\Primer Programa c#.AssemblyInfo.cs
+C:\Users\Andres Eduardo\source\repos\Primer Programa c#\Primer Programa c#\obj\Debug\net8.0-windows\Primer Programa c#.csproj.CoreCompileInputs.cache
+C:\Users\Andres Eduardo\source\repos\Primer Programa c#\Primer Programa c#\obj\Debug\net8.0-windows\Primer Programa c#.dll
+C:\Users\Andres Eduardo\source\repos\Primer Programa c#\Primer Programa c#\obj\Debug\net8.0-windows\refint\Primer Programa c#.dll
+C:\Users\Andres Eduardo\source\repos\Primer Programa c#\Primer Programa c#\obj\Debug\net8.0-windows\Primer Programa c#.pdb
+C:\Users\Andres Eduardo\source\repos\Primer Programa c#\Primer Programa c#\obj\Debug\net8.0-windows\Primer Programa c#.genruntimeconfig.cache
+C:\Users\Andres Eduardo\source\repos\Primer Programa c#\Primer Programa c#\obj\Debug\net8.0-windows\ref\Primer Programa c#.dll

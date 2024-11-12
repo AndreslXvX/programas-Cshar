@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andres Eduardo\\source\\repos\\Metodos constructivos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{701E4548-D121-4DA3-96D3-0377010B90B6}|Metodos constructivos\\Metodos constructivos.csproj|c:\\users\\andres eduardo\\source\\repos\\metodos constructivos\\metodos constructivos\\aire_acondicionado1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701E4548-D121-4DA3-96D3-0377010B90B6}|Metodos constructivos\\Metodos constructivos.csproj|solutionrelative:metodos constructivos\\aire_acondicionado1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701E4548-D121-4DA3-96D3-0377010B90B6}|Metodos constructivos\\Metodos constructivos.csproj|c:\\users\\andres eduardo\\source\\repos\\metodos constructivos\\metodos constructivos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701E4548-D121-4DA3-96D3-0377010B90B6}|Metodos constructivos\\Metodos constructivos.csproj|solutionrelative:metodos constructivos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701E4548-D121-4DA3-96D3-0377010B90B6}|Metodos constructivos\\Metodos constructivos.csproj|c:\\users\\andres eduardo\\source\\repos\\metodos constructivos\\metodos constructivos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{701E4548-D121-4DA3-96D3-0377010B90B6}|Metodos constructivos\\Metodos constructivos.csproj|solutionrelative:metodos constructivos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Andres Eduardo\\source\\repos\\Metodos constructivos\\Metodos constructivos\\Form1.cs",
+              "RelativeDocumentMoniker": "Metodos constructivos\\Form1.cs",
+              "ToolTip": "C:\\Users\\Andres Eduardo\\source\\repos\\Metodos constructivos\\Metodos constructivos\\Form1.cs",
+              "RelativeToolTip": "Metodos constructivos\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T19:34:18.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aire_Acondicionado1.cs",
+              "DocumentMoniker": "C:\\Users\\Andres Eduardo\\source\\repos\\Metodos constructivos\\Metodos constructivos\\Aire_Acondicionado1.cs",
+              "RelativeDocumentMoniker": "Metodos constructivos\\Aire_Acondicionado1.cs",
+              "ToolTip": "C:\\Users\\Andres Eduardo\\source\\repos\\Metodos constructivos\\Metodos constructivos\\Aire_Acondicionado1.cs*",
+              "RelativeToolTip": "Metodos constructivos\\Aire_Acondicionado1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T19:32:23.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andres Eduardo\\source\\repos\\Metodos constructivos\\Metodos constructivos\\Form1.cs",
+              "RelativeDocumentMoniker": "Metodos constructivos\\Form1.cs",
+              "ToolTip": "C:\\Users\\Andres Eduardo\\source\\repos\\Metodos constructivos\\Metodos constructivos\\Form1.cs [Design]",
+              "RelativeToolTip": "Metodos constructivos\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T19:27:56.35Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

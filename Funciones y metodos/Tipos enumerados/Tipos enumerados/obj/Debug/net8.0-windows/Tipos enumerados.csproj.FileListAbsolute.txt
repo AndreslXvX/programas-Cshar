@@ -1,0 +1,16 @@
+C:\Users\Andres Eduardo\source\repos\Tipos enumerados\Tipos enumerados\bin\Debug\net8.0-windows\Tipos enumerados.exe
+C:\Users\Andres Eduardo\source\repos\Tipos enumerados\Tipos enumerados\bin\Debug\net8.0-windows\Tipos enumerados.deps.json
+C:\Users\Andres Eduardo\source\repos\Tipos enumerados\Tipos enumerados\bin\Debug\net8.0-windows\Tipos enumerados.runtimeconfig.json
+C:\Users\Andres Eduardo\source\repos\Tipos enumerados\Tipos enumerados\bin\Debug\net8.0-windows\Tipos enumerados.dll
+C:\Users\Andres Eduardo\source\repos\Tipos enumerados\Tipos enumerados\bin\Debug\net8.0-windows\Tipos enumerados.pdb
+C:\Users\Andres Eduardo\source\repos\Tipos enumerados\Tipos enumerados\obj\Debug\net8.0-windows\Tipos_enumerados.Form1.resources
+C:\Users\Andres Eduardo\source\repos\Tipos enumerados\Tipos enumerados\obj\Debug\net8.0-windows\Tipos enumerados.csproj.GenerateResource.cache
+C:\Users\Andres Eduardo\source\repos\Tipos enumerados\Tipos enumerados\obj\Debug\net8.0-windows\Tipos enumerados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres Eduardo\source\repos\Tipos enumerados\Tipos enumerados\obj\Debug\net8.0-windows\Tipos enumerados.AssemblyInfoInputs.cache
+C:\Users\Andres Eduardo\source\repos\Tipos enumerados\Tipos enumerados\obj\Debug\net8.0-windows\Tipos enumerados.AssemblyInfo.cs
+C:\Users\Andres Eduardo\source\repos\Tipos enumerados\Tipos enumerados\obj\Debug\net8.0-windows\Tipos enumerados.csproj.CoreCompileInputs.cache
+C:\Users\Andres Eduardo\source\repos\Tipos enumerados\Tipos enumerados\obj\Debug\net8.0-windows\Tipos enumerados.dll
+C:\Users\Andres Eduardo\source\repos\Tipos enumerados\Tipos enumerados\obj\Debug\net8.0-windows\refint\Tipos enumerados.dll
+C:\Users\Andres Eduardo\source\repos\Tipos enumerados\Tipos enumerados\obj\Debug\net8.0-windows\Tipos enumerados.pdb
+C:\Users\Andres Eduardo\source\repos\Tipos enumerados\Tipos enumerados\obj\Debug\net8.0-windows\Tipos enumerados.genruntimeconfig.cache
+C:\Users\Andres Eduardo\source\repos\Tipos enumerados\Tipos enumerados\obj\Debug\net8.0-windows\ref\Tipos enumerados.dll
