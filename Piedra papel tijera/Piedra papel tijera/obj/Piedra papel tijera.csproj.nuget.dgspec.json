@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andres Eduardo\\source\\repos\\Piedra papel tijera\\Piedra papel tijera\\Piedra papel tijera.csproj": {}
+    "C:\\Users\\Andres Eduardo\\source\\Prueba\\Piedra papel tijera\\Piedra papel tijera\\Piedra papel tijera.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andres Eduardo\\source\\repos\\Piedra papel tijera\\Piedra papel tijera\\Piedra papel tijera.csproj": {
+    "C:\\Users\\Andres Eduardo\\source\\Prueba\\Piedra papel tijera\\Piedra papel tijera\\Piedra papel tijera.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andres Eduardo\\source\\repos\\Piedra papel tijera\\Piedra papel tijera\\Piedra papel tijera.csproj",
+        "projectUniqueName": "C:\\Users\\Andres Eduardo\\source\\Prueba\\Piedra papel tijera\\Piedra papel tijera\\Piedra papel tijera.csproj",
         "projectName": "Piedra papel tijera",
-        "projectPath": "C:\\Users\\Andres Eduardo\\source\\repos\\Piedra papel tijera\\Piedra papel tijera\\Piedra papel tijera.csproj",
+        "projectPath": "C:\\Users\\Andres Eduardo\\source\\Prueba\\Piedra papel tijera\\Piedra papel tijera\\Piedra papel tijera.csproj",
         "packagesPath": "C:\\Users\\Andres Eduardo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andres Eduardo\\source\\repos\\Piedra papel tijera\\Piedra papel tijera\\obj\\",
+        "outputPath": "C:\\Users\\Andres Eduardo\\source\\Prueba\\Piedra papel tijera\\Piedra papel tijera\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andres Eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config",

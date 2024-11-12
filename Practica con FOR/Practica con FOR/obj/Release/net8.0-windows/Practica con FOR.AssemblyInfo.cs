@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Practica con FOR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7da1dfdc19be065766caecc28cb6393320c7307d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Practica con FOR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Practica con FOR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

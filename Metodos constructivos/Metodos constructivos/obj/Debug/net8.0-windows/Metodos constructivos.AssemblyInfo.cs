@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Metodos constructivos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7da1dfdc19be065766caecc28cb6393320c7307d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Metodos constructivos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Metodos constructivos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
