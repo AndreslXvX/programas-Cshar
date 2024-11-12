@@ -1,0 +1,16 @@
+C:\Users\Andres Eduardo\source\repos\Matrices y bucle foreach\Matrices y bucle foreach\bin\Debug\net8.0-windows\Matrices y bucle foreach.exe
+C:\Users\Andres Eduardo\source\repos\Matrices y bucle foreach\Matrices y bucle foreach\bin\Debug\net8.0-windows\Matrices y bucle foreach.deps.json
+C:\Users\Andres Eduardo\source\repos\Matrices y bucle foreach\Matrices y bucle foreach\bin\Debug\net8.0-windows\Matrices y bucle foreach.runtimeconfig.json
+C:\Users\Andres Eduardo\source\repos\Matrices y bucle foreach\Matrices y bucle foreach\bin\Debug\net8.0-windows\Matrices y bucle foreach.dll
+C:\Users\Andres Eduardo\source\repos\Matrices y bucle foreach\Matrices y bucle foreach\bin\Debug\net8.0-windows\Matrices y bucle foreach.pdb
+C:\Users\Andres Eduardo\source\repos\Matrices y bucle foreach\Matrices y bucle foreach\obj\Debug\net8.0-windows\Matrices_y_bucle_foreach.Form1.resources
+C:\Users\Andres Eduardo\source\repos\Matrices y bucle foreach\Matrices y bucle foreach\obj\Debug\net8.0-windows\Matrices y bucle foreach.csproj.GenerateResource.cache
+C:\Users\Andres Eduardo\source\repos\Matrices y bucle foreach\Matrices y bucle foreach\obj\Debug\net8.0-windows\Matrices y bucle foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres Eduardo\source\repos\Matrices y bucle foreach\Matrices y bucle foreach\obj\Debug\net8.0-windows\Matrices y bucle foreach.AssemblyInfoInputs.cache
+C:\Users\Andres Eduardo\source\repos\Matrices y bucle foreach\Matrices y bucle foreach\obj\Debug\net8.0-windows\Matrices y bucle foreach.AssemblyInfo.cs
+C:\Users\Andres Eduardo\source\repos\Matrices y bucle foreach\Matrices y bucle foreach\obj\Debug\net8.0-windows\Matrices y bucle foreach.csproj.CoreCompileInputs.cache
+C:\Users\Andres Eduardo\source\repos\Matrices y bucle foreach\Matrices y bucle foreach\obj\Debug\net8.0-windows\Matrices y bucle foreach.dll
+C:\Users\Andres Eduardo\source\repos\Matrices y bucle foreach\Matrices y bucle foreach\obj\Debug\net8.0-windows\refint\Matrices y bucle foreach.dll
+C:\Users\Andres Eduardo\source\repos\Matrices y bucle foreach\Matrices y bucle foreach\obj\Debug\net8.0-windows\Matrices y bucle foreach.pdb
+C:\Users\Andres Eduardo\source\repos\Matrices y bucle foreach\Matrices y bucle foreach\obj\Debug\net8.0-windows\Matrices y bucle foreach.genruntimeconfig.cache
+C:\Users\Andres Eduardo\source\repos\Matrices y bucle foreach\Matrices y bucle foreach\obj\Debug\net8.0-windows\ref\Matrices y bucle foreach.dll

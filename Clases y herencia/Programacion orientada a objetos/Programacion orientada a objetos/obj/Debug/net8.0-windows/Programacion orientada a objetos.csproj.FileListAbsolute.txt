@@ -1,0 +1,16 @@
+C:\Users\Andres Eduardo\source\repos\Programacion orientada a objetos\Programacion orientada a objetos\bin\Debug\net8.0-windows\Programacion orientada a objetos.exe
+C:\Users\Andres Eduardo\source\repos\Programacion orientada a objetos\Programacion orientada a objetos\bin\Debug\net8.0-windows\Programacion orientada a objetos.deps.json
+C:\Users\Andres Eduardo\source\repos\Programacion orientada a objetos\Programacion orientada a objetos\bin\Debug\net8.0-windows\Programacion orientada a objetos.runtimeconfig.json
+C:\Users\Andres Eduardo\source\repos\Programacion orientada a objetos\Programacion orientada a objetos\bin\Debug\net8.0-windows\Programacion orientada a objetos.dll
+C:\Users\Andres Eduardo\source\repos\Programacion orientada a objetos\Programacion orientada a objetos\bin\Debug\net8.0-windows\Programacion orientada a objetos.pdb
+C:\Users\Andres Eduardo\source\repos\Programacion orientada a objetos\Programacion orientada a objetos\obj\Debug\net8.0-windows\Programacion_orientada_a_objetos.Form1.resources
+C:\Users\Andres Eduardo\source\repos\Programacion orientada a objetos\Programacion orientada a objetos\obj\Debug\net8.0-windows\Programacion orientada a objetos.csproj.GenerateResource.cache
+C:\Users\Andres Eduardo\source\repos\Programacion orientada a objetos\Programacion orientada a objetos\obj\Debug\net8.0-windows\Programacion orientada a objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres Eduardo\source\repos\Programacion orientada a objetos\Programacion orientada a objetos\obj\Debug\net8.0-windows\Programacion orientada a objetos.AssemblyInfoInputs.cache
+C:\Users\Andres Eduardo\source\repos\Programacion orientada a objetos\Programacion orientada a objetos\obj\Debug\net8.0-windows\Programacion orientada a objetos.AssemblyInfo.cs
+C:\Users\Andres Eduardo\source\repos\Programacion orientada a objetos\Programacion orientada a objetos\obj\Debug\net8.0-windows\Programacion orientada a objetos.csproj.CoreCompileInputs.cache
+C:\Users\Andres Eduardo\source\repos\Programacion orientada a objetos\Programacion orientada a objetos\obj\Debug\net8.0-windows\Programacion orientada a objetos.dll
+C:\Users\Andres Eduardo\source\repos\Programacion orientada a objetos\Programacion orientada a objetos\obj\Debug\net8.0-windows\refint\Programacion orientada a objetos.dll
+C:\Users\Andres Eduardo\source\repos\Programacion orientada a objetos\Programacion orientada a objetos\obj\Debug\net8.0-windows\Programacion orientada a objetos.pdb
+C:\Users\Andres Eduardo\source\repos\Programacion orientada a objetos\Programacion orientada a objetos\obj\Debug\net8.0-windows\Programacion orientada a objetos.genruntimeconfig.cache
+C:\Users\Andres Eduardo\source\repos\Programacion orientada a objetos\Programacion orientada a objetos\obj\Debug\net8.0-windows\ref\Programacion orientada a objetos.dll

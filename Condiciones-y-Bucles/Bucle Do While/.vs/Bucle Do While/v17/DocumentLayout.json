@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andres Eduardo\\source\\repos\\Bucle Do While\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E46B5855-10FD-4653-A5FA-64FF927342F4}|Bucle Do While\\Bucle Do While.csproj|C:\\Users\\Andres Eduardo\\source\\repos\\Bucle Do While\\bucle do while\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E46B5855-10FD-4653-A5FA-64FF927342F4}|Bucle Do While\\Bucle Do While.csproj|solutionrelative:bucle do while\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46B5855-10FD-4653-A5FA-64FF927342F4}|Bucle Do While\\Bucle Do While.csproj|c:\\users\\andres eduardo\\source\\repos\\bucle do while\\bucle do while\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46B5855-10FD-4653-A5FA-64FF927342F4}|Bucle Do While\\Bucle Do While.csproj|solutionrelative:bucle do while\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Andres Eduardo\\source\\repos\\Bucle Do While\\Bucle Do While\\Form1.cs",
+              "RelativeDocumentMoniker": "Bucle Do While\\Form1.cs",
+              "ToolTip": "C:\\Users\\Andres Eduardo\\source\\repos\\Bucle Do While\\Bucle Do While\\Form1.cs",
+              "RelativeToolTip": "Bucle Do While\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:10:00.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andres Eduardo\\source\\repos\\Bucle Do While\\Bucle Do While\\Form1.cs",
+              "RelativeDocumentMoniker": "Bucle Do While\\Form1.cs",
+              "ToolTip": "C:\\Users\\Andres Eduardo\\source\\repos\\Bucle Do While\\Bucle Do While\\Form1.cs [Design]",
+              "RelativeToolTip": "Bucle Do While\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:56:08.416Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

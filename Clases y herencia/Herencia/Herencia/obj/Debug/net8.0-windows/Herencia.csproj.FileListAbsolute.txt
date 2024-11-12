@@ -1,0 +1,16 @@
+C:\Users\Andres Eduardo\source\repos\Herencia\Herencia\bin\Debug\net8.0-windows\Herencia.exe
+C:\Users\Andres Eduardo\source\repos\Herencia\Herencia\bin\Debug\net8.0-windows\Herencia.deps.json
+C:\Users\Andres Eduardo\source\repos\Herencia\Herencia\bin\Debug\net8.0-windows\Herencia.runtimeconfig.json
+C:\Users\Andres Eduardo\source\repos\Herencia\Herencia\bin\Debug\net8.0-windows\Herencia.dll
+C:\Users\Andres Eduardo\source\repos\Herencia\Herencia\bin\Debug\net8.0-windows\Herencia.pdb
+C:\Users\Andres Eduardo\source\repos\Herencia\Herencia\obj\Debug\net8.0-windows\Herencia.Form1.resources
+C:\Users\Andres Eduardo\source\repos\Herencia\Herencia\obj\Debug\net8.0-windows\Herencia.csproj.GenerateResource.cache
+C:\Users\Andres Eduardo\source\repos\Herencia\Herencia\obj\Debug\net8.0-windows\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres Eduardo\source\repos\Herencia\Herencia\obj\Debug\net8.0-windows\Herencia.AssemblyInfoInputs.cache
+C:\Users\Andres Eduardo\source\repos\Herencia\Herencia\obj\Debug\net8.0-windows\Herencia.AssemblyInfo.cs
+C:\Users\Andres Eduardo\source\repos\Herencia\Herencia\obj\Debug\net8.0-windows\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Andres Eduardo\source\repos\Herencia\Herencia\obj\Debug\net8.0-windows\Herencia.dll
+C:\Users\Andres Eduardo\source\repos\Herencia\Herencia\obj\Debug\net8.0-windows\refint\Herencia.dll
+C:\Users\Andres Eduardo\source\repos\Herencia\Herencia\obj\Debug\net8.0-windows\Herencia.pdb
+C:\Users\Andres Eduardo\source\repos\Herencia\Herencia\obj\Debug\net8.0-windows\Herencia.genruntimeconfig.cache
+C:\Users\Andres Eduardo\source\repos\Herencia\Herencia\obj\Debug\net8.0-windows\ref\Herencia.dll

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andres Eduardo\\source\\repos\\Tipos enumerados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5B26D8-3A7C-46DB-8B23-383E425A635A}|Tipos enumerados\\Tipos enumerados.csproj|c:\\users\\andres eduardo\\source\\repos\\tipos enumerados\\tipos enumerados\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5B26D8-3A7C-46DB-8B23-383E425A635A}|Tipos enumerados\\Tipos enumerados.csproj|solutionrelative:tipos enumerados\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5B26D8-3A7C-46DB-8B23-383E425A635A}|Tipos enumerados\\Tipos enumerados.csproj|c:\\users\\andres eduardo\\source\\repos\\tipos enumerados\\tipos enumerados\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5B26D8-3A7C-46DB-8B23-383E425A635A}|Tipos enumerados\\Tipos enumerados.csproj|solutionrelative:tipos enumerados\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5B26D8-3A7C-46DB-8B23-383E425A635A}|Tipos enumerados\\Tipos enumerados.csproj|c:\\users\\andres eduardo\\source\\repos\\tipos enumerados\\tipos enumerados\\clasegenerica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5B26D8-3A7C-46DB-8B23-383E425A635A}|Tipos enumerados\\Tipos enumerados.csproj|solutionrelative:tipos enumerados\\clasegenerica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5B26D8-3A7C-46DB-8B23-383E425A635A}|Tipos enumerados\\Tipos enumerados.csproj|C:\\Users\\Andres Eduardo\\source\\repos\\Tipos enumerados\\tipos enumerados\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B5B26D8-3A7C-46DB-8B23-383E425A635A}|Tipos enumerados\\Tipos enumerados.csproj|solutionrelative:tipos enumerados\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClaseGenerica.cs",
+              "DocumentMoniker": "C:\\Users\\Andres Eduardo\\source\\repos\\Tipos enumerados\\Tipos enumerados\\ClaseGenerica.cs",
+              "RelativeDocumentMoniker": "Tipos enumerados\\ClaseGenerica.cs",
+              "ToolTip": "C:\\Users\\Andres Eduardo\\source\\repos\\Tipos enumerados\\Tipos enumerados\\ClaseGenerica.cs",
+              "RelativeToolTip": "Tipos enumerados\\ClaseGenerica.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:50:54.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Andres Eduardo\\source\\repos\\Tipos enumerados\\Tipos enumerados\\Form1.cs",
+              "RelativeDocumentMoniker": "Tipos enumerados\\Form1.cs",
+              "ToolTip": "C:\\Users\\Andres Eduardo\\source\\repos\\Tipos enumerados\\Tipos enumerados\\Form1.cs",
+              "RelativeToolTip": "Tipos enumerados\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:32:43.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Andres Eduardo\\source\\repos\\Tipos enumerados\\Tipos enumerados\\Cliente.cs",
+              "RelativeDocumentMoniker": "Tipos enumerados\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Andres Eduardo\\source\\repos\\Tipos enumerados\\Tipos enumerados\\Cliente.cs",
+              "RelativeToolTip": "Tipos enumerados\\Cliente.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:40:47.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andres Eduardo\\source\\repos\\Tipos enumerados\\Tipos enumerados\\Form1.cs",
+              "RelativeDocumentMoniker": "Tipos enumerados\\Form1.cs",
+              "ToolTip": "C:\\Users\\Andres Eduardo\\source\\repos\\Tipos enumerados\\Tipos enumerados\\Form1.cs [Design]",
+              "RelativeToolTip": "Tipos enumerados\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:40:04.656Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

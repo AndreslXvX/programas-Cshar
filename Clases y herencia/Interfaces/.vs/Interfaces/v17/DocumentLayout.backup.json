@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andres Eduardo\\source\\repos\\Interfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C206714-45D5-4E96-9246-0C872826C246}|Interfaces\\Interfaces.csproj|c:\\users\\andres eduardo\\source\\repos\\interfaces\\interfaces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C206714-45D5-4E96-9246-0C872826C246}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C206714-45D5-4E96-9246-0C872826C246}|Interfaces\\Interfaces.csproj|c:\\users\\andres eduardo\\source\\repos\\interfaces\\interfaces\\basquetbolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C206714-45D5-4E96-9246-0C872826C246}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\basquetbolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C206714-45D5-4E96-9246-0C872826C246}|Interfaces\\Interfaces.csproj|C:\\Users\\Andres Eduardo\\source\\repos\\Interfaces\\interfaces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C206714-45D5-4E96-9246-0C872826C246}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C206714-45D5-4E96-9246-0C872826C246}|Interfaces\\Interfaces.csproj|c:\\users\\andres eduardo\\source\\repos\\interfaces\\interfaces\\ibasquetbolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C206714-45D5-4E96-9246-0C872826C246}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\ibasquetbolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C206714-45D5-4E96-9246-0C872826C246}|Interfaces\\Interfaces.csproj|c:\\users\\andres eduardo\\source\\repos\\interfaces\\interfaces\\deportista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C206714-45D5-4E96-9246-0C872826C246}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\deportista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Andres Eduardo\\source\\repos\\Interfaces\\Interfaces\\Form1.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Form1.cs",
+              "ToolTip": "C:\\Users\\Andres Eduardo\\source\\repos\\Interfaces\\Interfaces\\Form1.cs",
+              "RelativeToolTip": "Interfaces\\Form1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA0wAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T18:56:46.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Basquetbolista.cs",
+              "DocumentMoniker": "C:\\Users\\Andres Eduardo\\source\\repos\\Interfaces\\Interfaces\\Basquetbolista.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Basquetbolista.cs",
+              "ToolTip": "C:\\Users\\Andres Eduardo\\source\\repos\\Interfaces\\Interfaces\\Basquetbolista.cs",
+              "RelativeToolTip": "Interfaces\\Basquetbolista.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T18:56:28.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBasquetbolista.cs",
+              "DocumentMoniker": "C:\\Users\\Andres Eduardo\\source\\repos\\Interfaces\\Interfaces\\IBasquetbolista.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IBasquetbolista.cs",
+              "ToolTip": "C:\\Users\\Andres Eduardo\\source\\repos\\Interfaces\\Interfaces\\IBasquetbolista.cs",
+              "RelativeToolTip": "Interfaces\\IBasquetbolista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T22:55:07.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andres Eduardo\\source\\repos\\Interfaces\\Interfaces\\Form1.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Form1.cs",
+              "ToolTip": "C:\\Users\\Andres Eduardo\\source\\repos\\Interfaces\\Interfaces\\Form1.cs [Design]",
+              "RelativeToolTip": "Interfaces\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T22:39:29.449Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Deportista.cs",
+              "DocumentMoniker": "C:\\Users\\Andres Eduardo\\source\\repos\\Interfaces\\Interfaces\\Deportista.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Deportista.cs",
+              "ToolTip": "C:\\Users\\Andres Eduardo\\source\\repos\\Interfaces\\Interfaces\\Deportista.cs",
+              "RelativeToolTip": "Interfaces\\Deportista.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T22:43:54.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

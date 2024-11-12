@@ -1,0 +1,16 @@
+C:\Users\Andres Eduardo\source\repos\Objetos asociados\Objetos asociados\obj\Debug\net8.0-windows\Objetos_asociados.Form1.resources
+C:\Users\Andres Eduardo\source\repos\Objetos asociados\Objetos asociados\obj\Debug\net8.0-windows\Objetos asociados.csproj.GenerateResource.cache
+C:\Users\Andres Eduardo\source\repos\Objetos asociados\Objetos asociados\obj\Debug\net8.0-windows\Objetos asociados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres Eduardo\source\repos\Objetos asociados\Objetos asociados\obj\Debug\net8.0-windows\Objetos asociados.AssemblyInfoInputs.cache
+C:\Users\Andres Eduardo\source\repos\Objetos asociados\Objetos asociados\obj\Debug\net8.0-windows\Objetos asociados.AssemblyInfo.cs
+C:\Users\Andres Eduardo\source\repos\Objetos asociados\Objetos asociados\obj\Debug\net8.0-windows\Objetos asociados.csproj.CoreCompileInputs.cache
+C:\Users\Andres Eduardo\source\repos\Objetos asociados\Objetos asociados\bin\Debug\net8.0-windows\Objetos asociados.exe
+C:\Users\Andres Eduardo\source\repos\Objetos asociados\Objetos asociados\bin\Debug\net8.0-windows\Objetos asociados.deps.json
+C:\Users\Andres Eduardo\source\repos\Objetos asociados\Objetos asociados\bin\Debug\net8.0-windows\Objetos asociados.runtimeconfig.json
+C:\Users\Andres Eduardo\source\repos\Objetos asociados\Objetos asociados\bin\Debug\net8.0-windows\Objetos asociados.dll
+C:\Users\Andres Eduardo\source\repos\Objetos asociados\Objetos asociados\bin\Debug\net8.0-windows\Objetos asociados.pdb
+C:\Users\Andres Eduardo\source\repos\Objetos asociados\Objetos asociados\obj\Debug\net8.0-windows\Objetos asociados.dll
+C:\Users\Andres Eduardo\source\repos\Objetos asociados\Objetos asociados\obj\Debug\net8.0-windows\refint\Objetos asociados.dll
+C:\Users\Andres Eduardo\source\repos\Objetos asociados\Objetos asociados\obj\Debug\net8.0-windows\Objetos asociados.pdb
+C:\Users\Andres Eduardo\source\repos\Objetos asociados\Objetos asociados\obj\Debug\net8.0-windows\Objetos asociados.genruntimeconfig.cache
+C:\Users\Andres Eduardo\source\repos\Objetos asociados\Objetos asociados\obj\Debug\net8.0-windows\ref\Objetos asociados.dll
